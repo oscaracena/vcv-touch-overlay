@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=VCV Rack 2 & Touch Overlay
+Exec=/opt/vcv-to/vcv-and-overlay.sh
+Icon=/opt/Rack2Free/res/icon.png
