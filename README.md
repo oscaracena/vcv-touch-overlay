@@ -10,9 +10,7 @@ This repo contains a simple application to be used with [VCV Rack 2](https://vcv
 
 Download this repo, open a terminal inside it and run the following command:
 
-    ```
     make install-app DEST_DIR=XX RACK_SYSTEM_DIR=YY
-    ```
 
 Where XX is the directory where you want to install this app (it defaults to `/opt/vcv-to`), and YY is the path where you have installed VCV Rack 2 (it defaults to `/opt/Rack2Free`). If the default values are good for you, just remove them from the previous command.
 
